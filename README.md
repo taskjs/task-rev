@@ -37,7 +37,7 @@ Default: `'{h}.{b}{e}'`
 `{h}` is file hash value, `{b}` is file basename, `{e}` is file extname.
 
 ## Release History
-
+* 2014-05-29 0.1.0 Initial release.
 
 ## License
 Copyright (c) 2014 Yuanyan Cao. Licensed under the MIT license.
